@@ -5,7 +5,7 @@ print("{0:.0f}".format(numero))
 #print basico
 print("\nAlo mundo")
 
-#soma basico
+#soma basica
 n1= int(input("\nDigite um numero: "))
 n2= int(input("Digite outro numero: "))
 print("A soma dos numeros é ",n1+n2)
