@@ -43,6 +43,14 @@
 # y = 2 + 3 * 5.
 # print(y)
 
-x = input()
-y = int(input())
-print(x*y)
+# x = input()
+# y = int(input())
+# print(x*y)
+
+cigarros_fum=int(input("Quantos cigarros voce fuma por dia ? "))
+anos_fum= int(input("A quantos anos voce fuma ? "))
+
+perda= (cigarros_fum*365)*anos_fum
+tempo_vida= perda*600
+
+print(perda)
