@@ -5,3 +5,5 @@ if letra == "a" or "e"or "i"or "o" or "u":
 else:
     print("A letra é consoante")
     
+
+# ESTE CODIGO ESTA ERRADO. -- exVogalConsoante2.py esta certo
